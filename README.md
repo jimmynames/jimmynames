@@ -2,8 +2,8 @@
 
 ## I'm a Front-end Developer and Designer!
 - 👔 I’m currently building [Verlay Studios][learnjamstack] with some friends
-- 🧩 I’m currently learning everything React.js, Next.js and GSAP
-- 🌱 I’m looking for freelance, contract and/or full-time roles
+- 🧩 I’m currently learning everything React.js, Next.js, GSAP & Framer
+- 🌱 I’m currently *not* looking for full-time roles.. hmu for freelance conversations however..  
 
 ### Connect with me:
 
